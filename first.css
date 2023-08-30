@@ -1,5 +1,11 @@
-ul{
-    color:brown;
+#item1{
+    color:rgb(165, 114, 42);
+}
+#item2{
+    color: burlywood;
+}
+#item3{
+    color:rgb(255, 230, 198);
 }
 h1{
     color:orange;
